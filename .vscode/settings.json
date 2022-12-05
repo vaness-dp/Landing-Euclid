@@ -1,0 +1,10 @@
+{
+    "editor.fontFamily": "Anonymous Pro",
+    "editor.fontLigatures": true,
+    "markdown.preview.fontFamily": "Anonymous Pro",
+    "vt100.font-family": "Anonymous Pro",
+    "color-highlight.enable": true,
+    "tailwindCSS.colorDecorators": false,
+    "markdown.preview.fontSize": 14,
+    "tailwindCSS.rootFontSize": 14
+}
